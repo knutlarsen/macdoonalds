@@ -1,0 +1,15 @@
+.course-overview {
+  background: #FFDFE7;
+  color: #FE3525;
+  padding: 40px 0;
+}
+
+.course-overview .title {
+  color: #FE3525;
+  font-size: 20px;
+}
+
+.course-overview .button {
+  background: #FE3525;
+  color: #fff;
+}

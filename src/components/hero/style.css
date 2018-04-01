@@ -1,0 +1,28 @@
+.hero {
+  background: #0025FF;
+  padding: 60px 0;
+}
+
+.hero .title {
+  color: #fff;
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.hero .logo {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background: #ffffff;
+  margin-bottom: 40px;
+}
+
+.hero .logo img {
+  width: 140px;
+  margin-top: 55px;
+}
+
+.hero .button {
+  background: #F6A623;
+}
